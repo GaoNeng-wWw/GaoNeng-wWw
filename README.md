@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=GaoNeng-wWw&theme=dark" width="500" style="margin-bottom:1em;"/>
 
-&nbsp;&nbsp;I'm GaoNeng,I am from Qingdao, ShanDong, China
+&nbsp;&nbsp;I'm GaoNeng,I am from Qingdao, ShanDong, China. I am a personal Web developer
 
 
 ### Stack
